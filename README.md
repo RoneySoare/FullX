@@ -1,6 +1,6 @@
 # FullX
 
-Bem-vindo ao **FullX**, meu repositório de projetos e arquivos Full Stack, integrando **Front-end** e **Back-end**! 🚀
+Bem-vindo ao **FullX**, meu repositório de projetos e arquivos Full Stack, integrando **Front-end** e **Back-end**!
 
 ## Estrutura do Repositório
 
